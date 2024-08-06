@@ -1,7 +1,7 @@
 
-# Vendordep Wizard for FRC
+# 🧙 Vendordep Wizard for FRC
 
-Vendor Wizard is a powerful tool designed to simplify the management of vendor dependencies (vendordeps) in FRC (FIRST Robotics Competition) projects. It provides both a CLI script and a GUI tool to help teams easily update and maintain their project dependencies.
+Vendor Wizard is a tool designed to simplify the management of vendor dependencies (vendordeps) in FRC (FIRST Robotics Competition) projects. It provides both a CLI script and a GUI tool to help teams easily update and maintain their project dependencies.
 
 ## Important Note
 
@@ -11,7 +11,6 @@ Vendor Wizard is a powerful tool designed to simplify the management of vendor d
 
 - List all vendordeps and their status
 - Update outdated vendordeps
-- User-friendly GUI for easy management
 - CLI script for automation and integration with build processes
 - Gradle integration for automatic updates during builds
 
@@ -26,7 +25,7 @@ Vendor Wizard is a powerful tool designed to simplify the management of vendor d
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/vendor-wizard.git
+   git clone https://github.com/WindingMotor/Vendor-Wizard.git
    ```
 
 2. Create a new folder named `tools` at the root of your robot project if it doesn't already exist.
@@ -111,9 +110,5 @@ This will automatically update your vendordeps when you run the Gradle build.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[MIT License](LICENSE)
 
 ---
